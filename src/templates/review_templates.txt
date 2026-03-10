@@ -1,0 +1,51 @@
+ARL Review Templates
+
+Template 1 — Quick Review
+-------------------------
+Product: {Product Name}
+
+Opening:
+"This is the {Product Name}, a popular product on Amazon."
+
+Features:
+- {Feature 1}
+- {Feature 2}
+- {Feature 3}
+
+Conclusion:
+"If you're looking for a reliable option, check the link below."
+
+Affiliate Link:
+{Amazon Affiliate Link}
+
+
+Template 2 — Pros & Cons
+------------------------
+
+Product: {Product Name}
+
+Pros:
+- {Pro 1}
+- {Pro 2}
+
+Cons:
+- {Con 1}
+
+Conclusion:
+"Overall this product offers solid value for the price."
+
+Affiliate Link:
+{Amazon Affiliate Link}
+
+
+Template 3 — Story Review
+-------------------------
+
+"Imagine needing {Use Case}. That's where the {Product Name} comes in."
+
+Key Features:
+- {Feature 1}
+- {Feature 2}
+
+Call to Action:
+"Check the product using the link in the description."
