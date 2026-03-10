@@ -1,0 +1,38 @@
+ARL Error Reporting System
+
+Purpose
+Track user errors and system failures so administrators can diagnose problems.
+
+Error Types
+-----------
+User Input Error
+Missing product name
+Missing affiliate link
+
+System Error
+Script generation failure
+Template load failure
+Export failure
+
+Error Log Structure
+-------------------
+Timestamp:
+User:
+Module:
+Error Type:
+Description:
+
+Example
+
+Timestamp: 2026-03-10
+User: free_user_23
+Module: Template Engine
+Error Type: Missing Input
+Description: Product name not provided
+
+Admin Actions
+-------------
+1. Review logs
+2. Retry failed process
+3. Notify user
+4. Flag recurring issues
