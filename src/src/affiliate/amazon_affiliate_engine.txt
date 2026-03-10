@@ -1,0 +1,17 @@
+ARL Amazon Affiliate Link Engine
+
+Purpose
+Automatically generate clickable affiliate links for Amazon products included in review videos.
+
+Workflow
+--------
+1. Input Amazon Product ID (ASIN)
+2. Generate unique affiliate link using your account
+3. Insert link into video description or template
+4. Log generated link in system for tracking
+
+Admin Options
+-------------
+- Enable / disable automatic link generation
+- View all generated links
+- Monitor clicks and revenue
