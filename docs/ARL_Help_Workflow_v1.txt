@@ -1,0 +1,35 @@
+Amazify Review Launch (ARL)
+
+System Purpose
+Create Amazon product review videos quickly using templates and AI scripts.
+
+Core Workflow
+1. Input Amazon product details
+2. Generate review script
+3. Build video using templates
+4. Insert affiliate link
+5. Export video to social platforms
+
+Supported Platforms
+- YouTube
+- TikTok
+- Facebook
+- LinkedIn
+
+Affiliate Integration
+Videos include clickable Amazon affiliate links that allow viewers to purchase products through the creator’s link.
+
+System Versions
+Free Version
+Manual workflow
+
+Tier 1
+AI scripts and templates
+
+Tier 2 VIP
+Automation, batch exports, and enhanced templates
+
+Admin Features
+Error logging
+Retry queue
+Workflow monitoring
